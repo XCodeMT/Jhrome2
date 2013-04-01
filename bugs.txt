@@ -1,0 +1,10 @@
+Bugs for Jhrome2:
+------------------------------------------------------------
+Bug Id: 001
+
+Bug: on OS X, tabs do not snap back in properly.
+
+Cause: unknown
+
+Fix: not yet
+------------------------------------------------------------
